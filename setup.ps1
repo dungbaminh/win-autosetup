@@ -14,7 +14,7 @@ Set-ExecutionPolicy Bypass -Scope Process -Force
 # Đường dẫn quản lý tiến trình
 $stageFile = "C:\setup_stage.txt"
 $localScript = "C:\win_setup_temp.ps1"
-# ĐÃ CAP NHAT LINK THEO YEU CAU:
+# CẬP NHẬT LINK GITHUB:
 $remoteUrl = "https://raw.githubusercontent.com/dungbaminh/win_autosetup/main/setup.ps1"
 
 # Tải bản sao tạm thời để duy trì sau khi Reboot
