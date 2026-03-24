@@ -22,9 +22,10 @@ System Optimization: Tối ưu RAM ảo (Paging File) và hiệu ứng hình ả
 Chuột phải vào nút Start, chọn Terminal (Admin) hoặc PowerShell (Admin).
 
 Copy và dán dòng lệnh bên dưới rồi nhấn Enter:
-
 PowerShell
+
 irm https://raw.githubusercontent.com/dungbaminh/win_autosetup/main/setup.ps1 | iex
+
 🔄 Quy trình thực hiện (4 Giai đoạn)
 Script sẽ tự động khởi động lại máy sau mỗi giai đoạn để đảm bảo tính ổn định:
 
