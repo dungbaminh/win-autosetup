@@ -12,7 +12,7 @@ Set-ExecutionPolicy Bypass -Scope Process -Force
 
 $stageFile = "C:\setup_stage.txt"
 $localScript = "C:\win_setup_temp.ps1"
-$remoteUrl = "https://raw.githubusercontent.com/dungbaminh/win_autosetup/main/setup.ps1"
+$remoteUrl = "https://raw.githubusercontent.com/dungbaminh/win-autosetup/main/setup.ps1"
 
 if ($MyInvocation.MyCommand.CommandType -ne "ExternalScript") {
     try {
