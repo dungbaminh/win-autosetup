@@ -1,5 +1,4 @@
 # win-autosetup
-Windows Auto-setup by me
 Windows Auto-Setup
 Script tự động hóa toàn diện quá trình thiết lập máy tính chạy Windows 10/11. Chỉ với một dòng lệnh duy nhất, hệ thống của bạn sẽ được kích hoạt, cập nhật, cài đặt Driver và đầy đủ các phần mềm cơ bản mà không cần tương tác thủ công.
 
